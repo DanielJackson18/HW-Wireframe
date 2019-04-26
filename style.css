@@ -7,7 +7,7 @@
            
             #container  {   
             font-family: Arial, Helvetica, sans-serif;
-            height: 715px;
+            height: 675px;
             width: 1100px;
             font-size: 18px;
             color: #777;
@@ -22,7 +22,7 @@
            
             .header { 
             height: 80px;
-            width: 920px;
+            width: 960px;
             background: #ebebeb;
             text-align: center; 
             line-height: 80px;
@@ -38,7 +38,7 @@
             text-align: center;
             font-family: Arial, Helvetica, sans-serif;
             line-height: 80px;
-            width: 920px;
+            width: 960px;
             height: 80px;
             margin-top: 8px;
             margin-right: -2%;
@@ -56,14 +56,14 @@
             background:#ebebeb;
             float: left;
             margin-top: 1px;
-            margin-bottom: 2%;
+            margin-bottom: 0%;
             margin-left: 2%;
             margin-right: 2%;
 
             }
 
             .article {
-            width: 475px;
+            width: 455px;
             height: 190px;
             text-align: center; 
             line-height: 50px;
@@ -71,7 +71,7 @@
             background:#777;
             float: left;
             margin-top: 2%;
-            margin-bottom: 2%;
+            margin-bottom: 1%;
             margin-left: 2%;
             margin-right: 1%;
             color: #ebebeb;
@@ -79,7 +79,7 @@
             }
 
             .paragraph {
-            width: 430px;
+            width: 410px;
             height: 50px;
             text-align: center; 
             line-height: 50px;
@@ -96,17 +96,17 @@
 
             .aside {
             height: 290px;
-            width: 395px;
+            width: 435px;
             text-align: center;
             line-height: 80px;
             float: right;
             margin-top: 2%;
-            margin-bottom: 2%;
+            margin-bottom: 0%;
             margin-left: 1%;
             margin-right: 2%;
             background:#ebebeb;
             position: relative;
-            right:12.5%;
+            right:8.7%;
             top: -2.8%;
               
             }
@@ -115,13 +115,13 @@
 
             .footer  {
             height: 80px;
-            width: 920px;
+            width: 960px;
             background: #ebebeb;
             text-align: center; 
             line-height: 80px;
-            margin-top: 1%;
+            margin-top: 0%;
             margin-right: 2%;
-            margin-bottom: 2%;
+            margin-bottom: 4%;
             margin-left: 2%;
             clear: both;
 
