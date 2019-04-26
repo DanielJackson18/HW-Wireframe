@@ -7,113 +7,123 @@
            
             #container  {   
             font-family: Arial, Helvetica, sans-serif;
-            width: 960px;
-            max-width: 1100px;
-            min-width: 340px;
+            height: 715px;
+            width: 1100px;
             font-size: 18px;
             color: #777;
-            background: #777;
+            background:#777;
             text-align: center; 
             line-height: 20px;
             margin: auto;
-            border-style: solid; 
-            border-width: 3px;
-            border-color:pink; 
-                
+            padding-top:  .5px;
+            padding-left: 110px; 
+
             }
            
             .header { 
             height: 80px;
             width: 920px;
-            background: peachpuff;
+            background: #ebebeb;
             text-align: center; 
             line-height: 80px;
             margin-top: 1%;
             margin-right: 2%;
-            margin-bottom: 1%;
+            margin-bottom: 8px;
             margin-left: 2%;
-            
+           
             }
            
             .Navagation  { 
-            background:pink;
+            background:#ebebeb;
             text-align: center;
             font-family: Arial, Helvetica, sans-serif;
             line-height: 80px;
             width: 920px;
             height: 80px;
-            margin-top: 1%;
+            margin-top: 8px;
             margin-right: -2%;
-            margin-bottom: 2%;
+            margin-bottom: 18px;
             margin-left: 2%;;
         
             }
 
-            
             .section {
+            height: 290px;
+            width: 495px;
+            text-align: center; 
+            line-height: 80px;
+            font-family: Arial, Helvetica, sans-serif;
+            background:#ebebeb;
+            float: left;
+            margin-top: 1px;
+            margin-bottom: 2%;
+            margin-left: 2%;
+            margin-right: 2%;
 
-                height: 300px;
-                width: 495px;
-                text-align: center; 
-                line-height: 80px;
-                font-family: Arial, Helvetica, sans-serif;
-                background:lightseagreen;
-                float: left;
-                margin-top: 2%;
-                margin-bottom: 2%;
-                margin-left: 2%;
-                margin-right: 2%;
             }
 
+            .article {
+            width: 475px;
+            height: 190px;
+            text-align: center; 
+            line-height: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            background:#777;
+            float: left;
+            margin-top: 2%;
+            margin-bottom: 2%;
+            margin-left: 2%;
+            margin-right: 1%;
+            color: #ebebeb;
 
-                .article {
+            }
 
-                width: 475px;
-                height: 200px;
-                text-align: center; 
-                line-height: 50px;
-                font-family: Arial, Helvetica, sans-serif;
-                background: orange;
-                float: left;
-                margin-top: 2%;
-                margin-bottom: 2%;
-                margin-left: 2%;
-                margin-right: 1%;
-                }
+            .paragraph {
+            width: 430px;
+            height: 50px;
+            text-align: center; 
+            line-height: 50px;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #ebebeb;
+            float: left;
+            margin-top: 4px;
+            margin-bottom: 4px;
+            margin-left: 4%;
+            margin-right: 1%;
+            color: #777;
 
+            }
 
-
-             
             .aside {
-                height: 300px;
-                width: 395px;
-                text-align: center;
-                line-height: 80px;
-                float: right;
-                margin-top: 2%;
-                margin-bottom: 2%;
-                margin-left: 1%;
-                margin-right: 2%;
-                clear: right;
-                background: yellow;
-               
-                
+            height: 290px;
+            width: 395px;
+            text-align: center;
+            line-height: 80px;
+            float: right;
+            margin-top: 2%;
+            margin-bottom: 2%;
+            margin-left: 1%;
+            margin-right: 2%;
+            background:#ebebeb;
+            position: relative;
+            right:12.5%;
+            top: -2.8%;
+              
             }
 
 
 
             .footer  {
-
-                 height: 80px;
-                 width: 920px;
-                 background: brown;
-                 text-align: center; 
-                 line-height: 20px;
-                 margin-top: 1%;
-                 margin-right: 2%;
-                 margin-bottom: 2%;
-                 margin-left: 2%;
-                 clear: both;
+            height: 80px;
+            width: 920px;
+            background: #ebebeb;
+            text-align: center; 
+            line-height: 80px;
+            margin-top: 1%;
+            margin-right: 2%;
+            margin-bottom: 2%;
+            margin-left: 2%;
+            clear: both;
 
             }
 
